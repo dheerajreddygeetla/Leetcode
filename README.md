@@ -15,6 +15,7 @@
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0008-string-to-integer-atoi) |
 | [1108-defanging-an-ip-address](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/1108-defanging-an-ip-address) |
 ## Sorting
 |  |
