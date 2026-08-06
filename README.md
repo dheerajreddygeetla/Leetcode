@@ -51,17 +51,24 @@
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0101-symmetric-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0101-symmetric-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0101-symmetric-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0543-diameter-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
