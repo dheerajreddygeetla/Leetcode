@@ -1,16 +1,15 @@
 class Solution {
 public:
     bool halvesAreAlike(string s) {
-        unordered_set<char>vowels={'a','e','i','o','u','A','E','I','O','U'};
-        int vowelsCount=0;
-        int mid=s.length()/2;
-
-        for(int i=0;i<mid;i++){
-            char charA=s[i];
-            char charB=s[mid+i];
-            if(vowels.count(charA)) vowelsCount++;
-            if(vowels.count(charB)) vowelsCount--;
+        int count=0;
+        for(int i=0;i<s.length();i++){
+            s[i]=tolower(s[i]);
+            if(i<s.length()/2){
+                if(s[i]==97 || s[i]==101 || s[i]==105 || s[i]==111 || s[i]==117) count++; 
+            }else{
+                if(s[i]==97 || s[i]==101 || s[i]==105 || s[i]==111 || s[i]==117) count--;
+            }
         }
-        return vowelsCount==0;
+        return count==0;
     }
 };
