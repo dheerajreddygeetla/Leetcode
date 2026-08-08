@@ -25,6 +25,7 @@
 | [0709-to-lower-case](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/1108-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Sorting
 |  |
 | ------- |
@@ -91,4 +92,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Counting
+|  |
+| ------- |
+| [1704-determine-if-string-halves-are-alike](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/1704-determine-if-string-halves-are-alike) |
 <!---LeetCode Topics End-->
