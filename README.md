@@ -6,6 +6,7 @@
 | [0001-two-sum](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0016-3sum-closest) |
 | [0048-rotate-image](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0048-rotate-image) |
+| [0075-sort-colors](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0189-rotate-array) |
 | [0500-keyboard-row](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0500-keyboard-row) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -32,11 +33,13 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0075-sort-colors) |
 | [3731-find-missing-elements](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0189-rotate-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
@@ -103,4 +106,12 @@
 |  |
 | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/2351-first-letter-to-appear-twice) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
