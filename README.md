@@ -10,6 +10,7 @@
 | [0075-sort-colors](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0189-rotate-array) |
 | [0500-keyboard-row](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0500-keyboard-row) |
+| [0560-subarray-sum-equals-k](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0560-subarray-sum-equals-k) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3731-find-missing-elements](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/3731-find-missing-elements) |
@@ -19,6 +20,7 @@
 | [0001-two-sum](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0049-group-anagrams) |
 | [0500-keyboard-row](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0500-keyboard-row) |
+| [0560-subarray-sum-equals-k](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0560-subarray-sum-equals-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/2351-first-letter-to-appear-twice) |
 | [3731-find-missing-elements](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/3731-find-missing-elements) |
 ## String
@@ -118,4 +120,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0075-sort-colors) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
