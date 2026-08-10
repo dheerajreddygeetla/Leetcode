@@ -6,6 +6,7 @@
 | [0001-two-sum](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0016-3sum-closest) |
 | [0048-rotate-image](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0189-rotate-array) |
 | [0500-keyboard-row](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0500-keyboard-row) |
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0049-group-anagrams) |
 | [0500-keyboard-row](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0500-keyboard-row) |
 | [2351-first-letter-to-appear-twice](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/2351-first-letter-to-appear-twice) |
 | [3731-find-missing-elements](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/3731-find-missing-elements) |
@@ -23,6 +25,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0008-string-to-integer-atoi) |
+| [0049-group-anagrams](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0049-group-anagrams) |
 | [0500-keyboard-row](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0500-keyboard-row) |
 | [0709-to-lower-case](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/1108-defanging-an-ip-address) |
@@ -33,6 +36,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0075-sort-colors) |
 | [3731-find-missing-elements](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/3731-find-missing-elements) |
 ## Two Pointers
