@@ -15,6 +15,7 @@
 | [0867-transpose-matrix](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0867-transpose-matrix) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -25,6 +26,7 @@
 | [0500-keyboard-row](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0560-subarray-sum-equals-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/2351-first-letter-to-appear-twice) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -133,4 +135,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0128-longest-consecutive-sequence) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
