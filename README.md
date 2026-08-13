@@ -10,6 +10,7 @@
 | [0075-sort-colors](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0287-find-the-duplicate-number) |
 | [0500-keyboard-row](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0560-subarray-sum-equals-k) |
 | [0832-flipping-an-image](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0832-flipping-an-image) |
@@ -55,6 +56,7 @@
 | [0016-3sum-closest](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0832-flipping-an-image) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
@@ -124,6 +126,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0832-flipping-an-image) |
 | [2351-first-letter-to-appear-twice](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/2351-first-letter-to-appear-twice) |
 ## Quicksort
@@ -150,4 +153,16 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0409-longest-palindrome) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
