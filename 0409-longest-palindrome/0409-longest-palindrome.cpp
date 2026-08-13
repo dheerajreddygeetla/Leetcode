@@ -1,19 +1,14 @@
 class Solution {
 public:
     int longestPalindrome(string s) {
-        unordered_map<int,int> char_counts;
-        for(char c:s) char_counts[c]++;
-        
-        int length=0;
-        bool has_odd=false;
-
-        for(auto const& [character,count]:char_counts){
-            length+=(count/2)*2;
-
-            if(count%2!=0) has_odd=true;
+        int odd_count=0;
+        unordered_map<int,int> mp;
+        for(char c:s){
+            mp[c]++;
+            if(mp[c]%2==1) odd_count++;
+            else odd_count--;
         }
-        if(has_odd) length++;
-
-        return length;
+        if(odd_count>1) return s.length()-odd_count+1;
+        return s.length();
     }
 };
