@@ -65,10 +65,12 @@
 | ------- |
 | [0048-rotate-image](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0258-add-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0258-add-digits) |
 | [0832-flipping-an-image](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -171,4 +173,8 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0055-jump-game) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
