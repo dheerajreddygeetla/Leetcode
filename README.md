@@ -16,6 +16,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0560-subarray-sum-equals-k) |
 | [0832-flipping-an-image](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0867-transpose-matrix) |
+| [0881-boats-to-save-people](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0881-boats-to-save-people) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2029-stone-game-ix](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -51,6 +52,7 @@
 | [0016-3sum-closest](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0075-sort-colors) |
+| [0881-boats-to-save-people](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0881-boats-to-save-people) |
 | [3731-find-missing-elements](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -60,6 +62,7 @@
 | [0189-rotate-array](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0832-flipping-an-image) |
+| [0881-boats-to-save-people](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0881-boats-to-save-people) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -160,6 +163,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0409-longest-palindrome) |
+| [0881-boats-to-save-people](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0881-boats-to-save-people) |
 | [2029-stone-game-ix](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/2029-stone-game-ix) |
 ## Binary Search
 |  |
@@ -197,4 +201,8 @@
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/2029-stone-game-ix) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
