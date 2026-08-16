@@ -1,18 +1,11 @@
 class Solution {
 public:
     bool stoneGameIX(vector<int>& stones) {
-        int a=0;
-        int b=0;
-        int c=0;
-        
-        for(int i:stones){
-            if(i%3==0) a++;
-            else if(i%3==1) b++;
-            else c++;
-        }
+        vector<int> count(3);
+        for(int stone:stones) count[stone%3]++;
 
-        if(a%2==0) return b>0 && c>0;
+        if(count[0]%2==0) return count[1]>0 && count[2]>0;
 
-        return abs(b-c)>2;
+        return abs(count[1]-count[2])>2;
     }
 };
