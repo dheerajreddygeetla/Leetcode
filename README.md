@@ -95,6 +95,7 @@
 | [0101-symmetric-tree](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0101-symmetric-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0543-diameter-of-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/2236-root-equals-sum-of-children) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
@@ -109,6 +110,7 @@
 | [0101-symmetric-tree](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0101-symmetric-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0543-diameter-of-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/2236-root-equals-sum-of-children) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/2331-evaluate-boolean-binary-tree) |
 ## DP on Trees
 |  |
