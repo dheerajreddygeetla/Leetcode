@@ -12,7 +12,6 @@
 class Solution {
 public:
     bool checkTree(TreeNode* root) {
-        if(root==nullptr) return false;
         return root->val==root->left->val+root->right->val;
     }
 };
