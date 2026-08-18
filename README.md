@@ -9,6 +9,7 @@
 | [0049-group-anagrams](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0075-sort-colors) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0287-find-the-duplicate-number) |
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0543-diameter-of-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/2236-root-equals-sum-of-children) |
@@ -108,6 +110,7 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0543-diameter-of-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/2236-root-equals-sum-of-children) |
@@ -207,4 +210,12 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0881-boats-to-save-people) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
