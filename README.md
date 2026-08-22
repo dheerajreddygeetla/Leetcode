@@ -73,6 +73,7 @@
 | [0258-add-digits](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0258-add-digits) |
 | [2029-stone-game-ix](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Simulation
 |  |
 | ------- |
