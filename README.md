@@ -46,6 +46,7 @@
 | [1108-defanging-an-ip-address](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/1108-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1927-sum-game](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/1927-sum-game) |
 | [2351-first-letter-to-appear-twice](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/2351-first-letter-to-appear-twice) |
 ## Sorting
 |  |
@@ -71,6 +72,7 @@
 | [0048-rotate-image](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0258-add-digits) |
+| [1927-sum-game](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -170,6 +172,7 @@
 | [0055-jump-game](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0409-longest-palindrome) |
 | [0881-boats-to-save-people](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0881-boats-to-save-people) |
+| [1927-sum-game](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/2029-stone-game-ix) |
 ## Binary Search
 |  |
@@ -198,6 +201,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
