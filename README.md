@@ -72,6 +72,7 @@
 | [0048-rotate-image](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0258-add-digits) |
+| [1323-maximum-69-number](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/1323-maximum-69-number) |
 | [1927-sum-game](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -172,6 +173,7 @@
 | [0055-jump-game](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0409-longest-palindrome) |
 | [0881-boats-to-save-people](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0881-boats-to-save-people) |
+| [1323-maximum-69-number](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/1323-maximum-69-number) |
 | [1927-sum-game](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/2029-stone-game-ix) |
 ## Binary Search
