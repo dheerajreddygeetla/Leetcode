@@ -22,6 +22,7 @@
 | [2029-stone-game-ix](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -34,6 +35,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0560-subarray-sum-equals-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/2351-first-letter-to-appear-twice) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/3731-find-missing-elements) |
 ## String
 |  |
