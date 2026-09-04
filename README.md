@@ -77,6 +77,7 @@
 | [0048-rotate-image](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0258-add-digits) |
+| [0509-fibonacci-number](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0509-fibonacci-number) |
 | [1323-maximum-69-number](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/1323-maximum-69-number) |
 | [1927-sum-game](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/2029-stone-game-ix) |
@@ -207,6 +208,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0055-jump-game) |
+| [0509-fibonacci-number](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0509-fibonacci-number) |
 ## Number Theory
 |  |
 | ------- |
@@ -240,4 +242,12 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
