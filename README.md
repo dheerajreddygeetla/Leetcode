@@ -14,6 +14,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0303-range-sum-query-immutable) |
 | [0500-keyboard-row](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0560-subarray-sum-equals-k) |
 | [0832-flipping-an-image](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0832-flipping-an-image) |
@@ -173,6 +174,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0560-subarray-sum-equals-k) |
 | [3903-smallest-stable-index-i](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/3904-smallest-stable-index-ii) |
@@ -252,4 +254,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0509-fibonacci-number) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
