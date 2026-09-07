@@ -35,6 +35,7 @@
 | [0001-two-sum](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0128-longest-consecutive-sequence) |
+| [0242-valid-anagram](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0560-subarray-sum-equals-k) |
@@ -47,6 +48,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0500-keyboard-row) |
 | [0709-to-lower-case](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0709-to-lower-case) |
@@ -61,6 +63,7 @@
 | [0016-3sum-closest](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0242-valid-anagram) |
 | [0881-boats-to-save-people](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0881-boats-to-save-people) |
 | [3731-find-missing-elements](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/3731-find-missing-elements) |
 ## Two Pointers
