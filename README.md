@@ -13,6 +13,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0303-range-sum-query-immutable) |
 | [0500-keyboard-row](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0500-keyboard-row) |
@@ -177,6 +178,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0560-subarray-sum-equals-k) |
 | [3903-smallest-stable-index-i](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/3903-smallest-stable-index-i) |
