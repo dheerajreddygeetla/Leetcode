@@ -21,6 +21,7 @@
 | [0832-flipping-an-image](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0881-boats-to-save-people) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2029-stone-game-ix](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -40,6 +41,7 @@
 | [0409-longest-palindrome](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0560-subarray-sum-equals-k) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2351-first-letter-to-appear-twice](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/2351-first-letter-to-appear-twice) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -182,6 +184,7 @@
 | [0238-product-of-array-except-self](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0560-subarray-sum-equals-k) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/3904-smallest-stable-index-ii) |
 ## Union-Find
@@ -191,6 +194,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Greedy
 |  |
@@ -206,6 +210,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0033-search-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0287-find-the-duplicate-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Pigeonhole Principle
 |  |
 | ------- |
