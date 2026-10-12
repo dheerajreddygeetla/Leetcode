@@ -75,6 +75,7 @@
 | [0016-3sum-closest](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0881-boats-to-save-people) |
@@ -260,6 +261,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -269,4 +271,12 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0303-range-sum-query-immutable) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
