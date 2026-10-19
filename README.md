@@ -24,6 +24,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2029-stone-game-ix](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/2029-stone-game-ix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -68,6 +69,7 @@
 | [0075-sort-colors](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0242-valid-anagram) |
 | [0881-boats-to-save-people](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0881-boats-to-save-people) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3731-find-missing-elements](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -212,6 +214,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0033-search-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/0287-find-the-duplicate-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/dheerajreddygeetla/MedCore-EHR/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Pigeonhole Principle
 |  |
 | ------- |
